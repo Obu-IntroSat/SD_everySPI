@@ -1,5 +1,5 @@
 # SD_everySPI
-Modified SD library with function to choose SPI that SD card is connected to.
+Modified SD library for stm32duino core in Arduino IDE with function to choose SPI that SD card is connected to.
 
 ## Differences with standard Arduino SD library:
 
